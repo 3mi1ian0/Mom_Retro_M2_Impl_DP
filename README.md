@@ -1,5 +1,21 @@
 # Mom_Retro_M2_Impl_DP
-Utiliza un framework para entrenar un modelo de aprendizaje profundo  Evalúa el desempeño del modelo en su aproximación inicial y realiza ajustes para mejorar su desempeño  Utiliza un conjunto de datos reales (no ejemplos de clase), para la creación del modelo.
+
+## En este repositorio se encuentra los siguientes documentos:
+
+  - ClassificationCodeCars.ipynb: En este se encuentra el codigo de implementacion
+  - Car_Brand_Logos/new_images: Que tiene 2 imagenes para verificar las predicciones
+  - Descargar datos: Es un codigo para descargar el dataset que se utilizo
+
+
+
+
+A) Utiliza un framework para entrenar un modelo de aprendizaje profundo 
+
+B) Evalúa el desempeño del modelo en su aproximación inicial y realiza ajustes para mejorar su desempeño  
+
+C) Utiliza un conjunto de datos reales (no ejemplos de clase), para la creación del modelo.
+
+D) El modelo puede generar predicciones o recomendaciones a través de la consola o una interfaz
 
 
 1.- Selecciona un problema y consigue un dataset para resolver dicho problema. 
