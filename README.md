@@ -18,8 +18,9 @@
 
   - ClassificationCodeCars.ipynb: En este se encuentra el codigo de implementacion
   - Car_Brand_Logos/new_images: Que tiene 2 imagenes para verificar las predicciones
-  - descargar_datos: Es un codigo para descargar el dataset que se utilizo Y LOS MODELOS YA CARGADOS.
-    NOTA: HAY QUE CAMBIAR LA VARIABLE DESTINATION A DONDE SE DESEA DESCARGAR EL ARCHIVO. ESTO SE HIZO DEBIDO A QUE GITHUB NO DEJA SUBIR ARCHIVOS MAYORES A 25 MB
+  - Y en el siguiente link se encuentra para descargar el dataset que se utilizo Y LOS MODELOS YA CARGADOS.
+    NOTA: ESTO SE HIZO DEBIDO A QUE GITHUB NO DEJA SUBIR ARCHIVOS MAYORES A 25 MB.
+    https://drive.google.com/drive/folders/1fSZd21PLtyNRrgIfaDnOUNFiNxYJZYej?usp=sharing 
 
 
 
